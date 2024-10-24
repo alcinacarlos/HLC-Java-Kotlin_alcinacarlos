@@ -1,7 +1,7 @@
 package ejerciciosJava;
 
 public class Ejercicio2 {
-    public static void main(String[] args) {
+    public static void main() {
         if (Utils.pedirEntero() % 2 == 0) {
             System.out.println("Par");
         } else {

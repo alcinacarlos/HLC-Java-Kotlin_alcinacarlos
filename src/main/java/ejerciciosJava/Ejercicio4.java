@@ -3,7 +3,7 @@ package ejerciciosJava;
 import java.util.Random;
 
 public class Ejercicio4 {
-    public static void main(String[] args) {
+    public static void main() {
         Random random = new Random();
         int generatedNum = random.nextInt(100) + 1;
         int userNum;

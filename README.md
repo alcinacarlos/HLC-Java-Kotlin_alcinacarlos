@@ -1,4 +1,4 @@
-# Ejercicios de Programación
+# HLC Ejericicios Kotlin & Java
 
 ## 1. Saludo personalizado
 Pedir al usuario su nombre y saludarle con un mensaje personalizado. Ejemplo: "¡Hola, Juan!".
